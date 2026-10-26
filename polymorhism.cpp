@@ -44,4 +44,4 @@ int main() {
 
     return 0;
 }
-print(f"Created: {path}")
+
